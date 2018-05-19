@@ -1,0 +1,25 @@
+{
+  "name": "lambda-cb-to-promise",
+  "version": "0.0.1",
+  "description": "promises support to lambda aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/lambda-cb-to-promise.git"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "promises",
+    "callback"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/lambda-cb-to-promise/issues"
+  },
+  "homepage": "https://github.com/Cereceres/lambda-cb-to-promise#readme"
+}
